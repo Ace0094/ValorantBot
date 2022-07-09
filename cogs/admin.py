@@ -64,7 +64,7 @@ class Admin(commands.Cog):
         )
         embed.add_field(
             name='Info:',
-            value=f"This bot is a external plugin of Vibez Discord Bot, and is still under development but still its fully usable.",
+            value=f"This bot is an external plugin of Vibez Discord Bot, and is still under development but still its fully usable.",
             inline=False
         )
         view = ui.View()
